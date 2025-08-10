@@ -5,3 +5,7 @@ soundfile
 pandas
 Pillow
 pyaudio
+rich
+markdown-it-py
+mdurl
+pygments
