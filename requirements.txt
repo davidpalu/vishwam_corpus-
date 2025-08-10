@@ -4,3 +4,4 @@ sounddevice
 soundfile
 pandas
 Pillow
+pyaudio
