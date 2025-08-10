@@ -1,4 +1,5 @@
 streamlit
+gradio
 SpeechRecognition
 sounddevice
 soundfile
