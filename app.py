@@ -14,7 +14,7 @@ INDIAN_LANGUAGES = {
     "English": "en",
     "Hindi": "hi",
     "Bengali": "bn", 
-    "Telugu": "te",
+    "Telugu": "te", 
     "Marathi": "mr",
     "Tamil": "ta",
     "Gujarati": "gu",
