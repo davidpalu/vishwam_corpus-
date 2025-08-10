@@ -9,3 +9,5 @@ rich
 markdown-it-py
 mdurl
 pygments
+uuid
+wave
